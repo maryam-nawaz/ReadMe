@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student<br>I'm working on the schoolchain project.<br>My ultimate career goal is to become a Cybersecurity Specialist.
+I'm a computer science student.<br>I'm working on the schoolchain project.<br>My ultimate career goal is to become a Cybersecurity Specialist.
 
 
 ## 🌐 Socials:
